@@ -1,1 +1,1 @@
-# SignalRChat2
+# SignalRChatApplication

@@ -8,5 +8,6 @@ SignalRChatApplication is another app in .NET Framework that used Signalr javasc
 ##Italian
 # SignalRChatApplication   
 //il mio lavoro individuale
+
 SignalRChatApplication è un'altra app in .NET Framework che utilizza la libreria javascript Signalr per consentire agli utenti registrati di inviare messaggi in tempo reale tra loro.
 
